@@ -13,7 +13,7 @@
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
 <p align="center" width="100%">
-  I'm a 3rd-year B.Tech CSE student at GLA University with a deep interest in full-stack development, AI integration, and system design. I’ve built real-world projects like <strong>SENSAI (AI Career Coach)</strong>, <strong>Cravio (Food Ordering App)</strong>, and <strong>Route Reveal (Pathfinding Visualizer)</strong>. I enjoy hackathons, open-source, and learning modern tech stacks!
+  I'm a Final year B.Tech CSE student at GLA University with a deep interest in full-stack development, AI integration, and system design. I’ve built real-world projects like <strong>SENSAI (AI Career Coach)</strong>, <strong>Cravio (Food Ordering App)</strong>, and <strong>Route Reveal (Pathfinding Visualizer)</strong>. I enjoy hackathons, open-source, and learning modern tech stacks!
   <br><br>🌱 Currently diving into  Java Spring Boot + cloud, microservices & distributed systems.
   <br>⚒️ MERN + AI APIs + Clean UI/UX with Shadcn & Tailwind
   <br>📫 Always open to collaboration and innovation!
