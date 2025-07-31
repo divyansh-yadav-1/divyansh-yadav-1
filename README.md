@@ -1,13 +1,10 @@
-
-
-
 <!-- Animated Avatar -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhkZGd0dHo2azQ1cTMyMDRsemkycGdmdGpobzFsbzFqdjE0eTJiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100%" height="450px" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhkZGd0dHo2azQ1cTMyMDRsemkycGdmdGpobzFsbzFqdjE0eTJiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100%" height="400px" />
 </p>
 <!-- Master Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyansh+Yadav!;MERN+Stack+Developer;Spring+Boot+Engineer;AI+%26+Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyansh+Yadav!;MERN+Stack+Developer;Spring+Boot+Engineer;AI+%26+Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <!-- About Me -->
