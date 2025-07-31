@@ -11,18 +11,18 @@
 </p>
 
 <!-- About Me -->
-<h2 align="center">🚀 About Me</h2>
-<p align="center" width="100%">
+<h1 align="center">🚀 About Me</h1>
+<h3 align="center" width="100% ">
   I'm a Final year B.Tech CSE student at GLA University with a deep interest in full-stack development, AI integration, and system design. I’ve built real-world projects like <strong>SENSAI (AI Career Coach)</strong>, <strong>Cravio (Food Ordering App)</strong>, and <strong>Route Reveal (Pathfinding Visualizer)</strong>. I enjoy hackathons, open-source, and learning modern tech stacks!
   <br><br>🌱 Currently diving into  Java Spring Boot + cloud, microservices & distributed systems.
   <br>⚒️ MERN + AI APIs + Clean UI/UX with Shadcn & Tailwind
   <br>📫 Always open to collaboration and innovation!
-</p>
+</h3>
 
 ---
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h1 align="center">🛠️ My Tech Stack</h1>
 
 <p align="center"><b>Languages</b><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -69,7 +69,7 @@
 ---
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h1 align="center">📊 GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-yadav-1&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
