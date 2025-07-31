@@ -1,112 +1,96 @@
-<!-- Animated & Impactful GitHub Profile README -->
 
-<h1 align="center">Hey 👋, I'm Divyansh Yadav</h1>
-<h3 align="center">💻 Full Stack Developer | ☕ Java Wizard | MERN Crafter | AI & Cloud Explorer ☁️</h3>
 
+
+<!-- Animated Avatar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=16F7D5&center=true&vCenter=true&width=1000&lines=🚀+Crafting+Innovative+Web+Experiences+💻;🤖+Exploring+AI%2C+Cloud%2C+Microservices+🛠️;🔥+Driven+by+Curiosity+%7C+Built+with+Passion+❤️" alt="Typing SVG" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhkZGd0dHo2azQ1cTMyMDRsemkycGdmdGpobzFsbzFqdjE0eTJiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100%" height="450px" />
+</p>
+<!-- Master Header with Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyansh+Yadav!;MERN+Stack+Developer;Spring+Boot+Engineer;AI+%26+Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
+
+<!-- About Me -->
+<h2 align="center">🚀 About Me</h2>
+<p align="center" width="100%">
+  I'm a 3rd-year B.Tech CSE student at GLA University with a deep interest in full-stack development, AI integration, and system design. I’ve built real-world projects like <strong>SENSAI (AI Career Coach)</strong>, <strong>Cravio (Food Ordering App)</strong>, and <strong>Route Reveal (Pathfinding Visualizer)</strong>. I enjoy hackathons, open-source, and learning modern tech stacks!
+  <br><br>🌱 Currently diving into  Java Spring Boot + cloud, microservices & distributed systems.
+  <br>⚒️ MERN + AI APIs + Clean UI/UX with Shadcn & Tailwind
+  <br>📫 Always open to collaboration and innovation!
 </p>
 
 ---
 
-## 🌱 What I'm Up To
+<!-- Tech Stack -->
+<h2 align="center">🛠️ My Tech Stack</h2>
 
-- 🤖 Exploring New Technologies in AI, Web Dev, and Software Engineering
-- 🏆 Participating in Hackathons & Coding Competitions
-- 🌍 Collaborating on Open-Source Projects & Innovation
-
----
-
-## 💻 Tech Stack I Play With
-
-### Frontend:
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SASS-CC6699.svg?logo=sass&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?logo=react&logoColor=black" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=next.js&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white" height="50" />
+<p align="center"><b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Backend:
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white" height="50" />
+<p align="center"><b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Database:
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Neon%20DB-1C1C1E.svg?logo=data&logoColor=white" height="50" />
+<p align="center"><b>Backend & Server</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
-### Tools:
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Firefox-E66000.svg?logo=firefox-browser&logoColor=white" height="50" />
+<p align="center"><b>Databases</b><br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeonDB-00FFFF?style=for-the-badge&logoColor=white" />
 </p>
 
-### Deployment:
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Render-46E3B7.svg?logo=render&logoColor=black" height="50" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="50" />
+<p align="center"><b>Tools & DevOps</b><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center"><b>AI & Integrations</b><br>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk_Auth-3D6FE4?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SendGrid-0081C6?style=for-the-badge&logo=sendgrid&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/divyansh-yadav-537716190" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:divyansh.official0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Divyansh20004/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/divyansh-yadav-1">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-yadav-1&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+
+
+
+---
+
+<!-- Socials -->
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:iamdivyanshyadav1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/divyansh-yadav-537716190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Divyansh20004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/divyansh-yadav-1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansh-yadav-1&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-yadav-1&layout=compact&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyansh-yadav-1&theme=dracula&margin-w=15&no-bg=true" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
+<!-- Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyansh-yadav-1&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" />
-</p>
-
-<p align="center"><i>Code 🚀 | Learn 📘 | Create ✨ | Repeat 🔁</i></p>
+</p> 
